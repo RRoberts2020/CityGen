@@ -1,0 +1,6178 @@
+{
+    "wsdList": [
+        {
+            "prefabName": "RoadCrossway",
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": -4.371138828673793e-8
+            },
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 2.0
+            }
+        },
+        {
+            "prefabName": "RoadStrightTunel",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 1.0
+            }
+        },
+        {
+            "prefabName": "RoadCrossway",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "prefabName": "RoadTurn",
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": -4.371138828673793e-8
+            },
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 3.0
+            }
+        },
+        {
+            "prefabName": "RoadT",
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": -4.371138828673793e-8
+            },
+            "position": {
+                "x": 1.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "prefabName": "House",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": -0.7071068286895752
+            },
+            "position": {
+                "x": 1.0,
+                "y": 0.0,
+                "z": 1.0
+            }
+        },
+        {
+            "prefabName": "RoadStright",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": -0.7071068286895752
+            },
+            "position": {
+                "x": 1.0,
+                "y": 0.0,
+                "z": 2.0
+            }
+        },
+        {
+            "prefabName": "RoadTurn",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": -0.7071068286895752
+            },
+            "position": {
+                "x": 2.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "prefabName": "RoadStright",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": 0.7071068286895752
+            },
+            "position": {
+                "x": 2.0,
+                "y": 0.0,
+                "z": 2.0
+            }
+        },
+        {
+            "prefabName": "BuildingTall",
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": -4.371138828673793e-8
+            },
+            "position": {
+                "x": 2.0,
+                "y": 0.0,
+                "z": 1.0
+            }
+        },
+        {
+            "prefabName": "RoadTurn",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "position": {
+                "x": 3.0,
+                "y": 0.0,
+                "z": 2.0
+            }
+        },
+        {
+            "prefabName": "House",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": 0.7071068286895752
+            },
+            "position": {
+                "x": 1.0,
+                "y": 0.0,
+                "z": 3.0
+            }
+        },
+        {
+            "prefabName": "Grass",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "position": {
+                "x": 2.0,
+                "y": 0.0,
+                "z": 3.0
+            }
+        },
+        {
+            "prefabName": "Grass",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "position": {
+                "x": 1.0,
+                "y": 0.0,
+                "z": 4.0
+            }
+        },
+        {
+            "prefabName": "Grass",
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": -4.371138828673793e-8
+            },
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 4.0
+            }
+        },
+        {
+            "prefabName": "Grass",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": -0.7071068286895752
+            },
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 5.0
+            }
+        },
+        {
+            "prefabName": "BuildingTall",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": -0.7071068286895752
+            },
+            "position": {
+                "x": 1.0,
+                "y": 0.0,
+                "z": 5.0
+            }
+        },
+        {
+            "prefabName": "RoadT",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 6.0
+            }
+        },
+        {
+            "prefabName": "RoadStright",
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": -4.371138828673793e-8
+            },
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 7.0
+            }
+        },
+        {
+            "prefabName": "RoadT",
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": -4.371138828673793e-8
+            },
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 8.0
+            }
+        },
+        {
+            "prefabName": "RoadT",
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": -4.371138828673793e-8
+            },
+            "position": {
+                "x": 1.0,
+                "y": 0.0,
+                "z": 6.0
+            }
+        },
+        {
+            "prefabName": "RoadCrossway",
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": -4.371138828673793e-8
+            },
+            "position": {
+                "x": 1.0,
+                "y": 0.0,
+                "z": 8.0
+            }
+        },
+        {
+            "prefabName": "RoadStright",
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": -4.371138828673793e-8
+            },
+            "position": {
+                "x": 1.0,
+                "y": 0.0,
+                "z": 7.0
+            }
+        },
+        {
+            "prefabName": "RoadTurn",
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": -4.371138828673793e-8
+            },
+            "position": {
+                "x": 1.0,
+                "y": 0.0,
+                "z": 9.0
+            }
+        },
+        {
+            "prefabName": "House",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 9.0
+            }
+        },
+        {
+            "prefabName": "RoadCrossway",
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": -4.371138828673793e-8
+            },
+            "position": {
+                "x": 2.0,
+                "y": 0.0,
+                "z": 8.0
+            }
+        },
+        {
+            "prefabName": "Tree",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": 0.7071068286895752
+            },
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 10.0
+            }
+        },
+        {
+            "prefabName": "Grass",
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": -4.371138828673793e-8
+            },
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 11.0
+            }
+        },
+        {
+            "prefabName": "RoadStright",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": -0.7071068286895752
+            },
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 12.0
+            }
+        },
+        {
+            "prefabName": "RoadCrossway",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": -0.7071068286895752
+            },
+            "position": {
+                "x": 1.0,
+                "y": 0.0,
+                "z": 12.0
+            }
+        },
+        {
+            "prefabName": "RoadT",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 13.0
+            }
+        },
+        {
+            "prefabName": "RoadStright",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 14.0
+            }
+        },
+        {
+            "prefabName": "RoadStright",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 15.0
+            }
+        },
+        {
+            "prefabName": "RoadTurn",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": -0.7071068286895752
+            },
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 16.0
+            }
+        },
+        {
+            "prefabName": "RoadStrightTunel",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": 0.7071068286895752
+            },
+            "position": {
+                "x": 1.0,
+                "y": 0.0,
+                "z": 13.0
+            }
+        },
+        {
+            "prefabName": "Tree",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": -0.7071068286895752
+            },
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 17.0
+            }
+        },
+        {
+            "prefabName": "BuildingTall",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": -0.7071068286895752
+            },
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 18.0
+            }
+        },
+        {
+            "prefabName": "RoadTurn",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 19.0
+            }
+        },
+        {
+            "prefabName": "RoadCrossway",
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": -4.371138828673793e-8
+            },
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 20.0
+            }
+        },
+        {
+            "prefabName": "RoadT",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": -0.7071068286895752
+            },
+            "position": {
+                "x": 1.0,
+                "y": 0.0,
+                "z": 20.0
+            }
+        },
+        {
+            "prefabName": "RoadStright",
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": -4.371138828673793e-8
+            },
+            "position": {
+                "x": 1.0,
+                "y": 0.0,
+                "z": 19.0
+            }
+        },
+        {
+            "prefabName": "RoadStright",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "position": {
+                "x": 1.0,
+                "y": 0.0,
+                "z": 18.0
+            }
+        },
+        {
+            "prefabName": "RoadStrightTunel",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "position": {
+                "x": 1.0,
+                "y": 0.0,
+                "z": 17.0
+            }
+        },
+        {
+            "prefabName": "RoadStrightTunel",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "position": {
+                "x": 1.0,
+                "y": 0.0,
+                "z": 16.0
+            }
+        },
+        {
+            "prefabName": "RoadT",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": 0.7071068286895752
+            },
+            "position": {
+                "x": 1.0,
+                "y": 0.0,
+                "z": 15.0
+            }
+        },
+        {
+            "prefabName": "RoadStrightTunel",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "position": {
+                "x": 1.0,
+                "y": 0.0,
+                "z": 14.0
+            }
+        },
+        {
+            "prefabName": "RoadStright",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": 0.7071068286895752
+            },
+            "position": {
+                "x": 2.0,
+                "y": 0.0,
+                "z": 15.0
+            }
+        },
+        {
+            "prefabName": "RoadStright",
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": -4.371138828673793e-8
+            },
+            "position": {
+                "x": 1.0,
+                "y": 0.0,
+                "z": 10.0
+            }
+        },
+        {
+            "prefabName": "RoadStright",
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": -4.371138828673793e-8
+            },
+            "position": {
+                "x": 1.0,
+                "y": 0.0,
+                "z": 11.0
+            }
+        },
+        {
+            "prefabName": "Grass",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": -0.7071068286895752
+            },
+            "position": {
+                "x": 2.0,
+                "y": 0.0,
+                "z": 4.0
+            }
+        },
+        {
+            "prefabName": "Tree",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": 0.7071068286895752
+            },
+            "position": {
+                "x": 2.0,
+                "y": 0.0,
+                "z": 7.0
+            }
+        },
+        {
+            "prefabName": "Tree",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": 0.7071068286895752
+            },
+            "position": {
+                "x": 2.0,
+                "y": 0.0,
+                "z": 6.0
+            }
+        },
+        {
+            "prefabName": "Grass",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "position": {
+                "x": 2.0,
+                "y": 0.0,
+                "z": 5.0
+            }
+        },
+        {
+            "prefabName": "RoadTurn",
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": -4.371138828673793e-8
+            },
+            "position": {
+                "x": 2.0,
+                "y": 0.0,
+                "z": 10.0
+            }
+        },
+        {
+            "prefabName": "RoadT",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": 0.7071068286895752
+            },
+            "position": {
+                "x": 2.0,
+                "y": 0.0,
+                "z": 11.0
+            }
+        },
+        {
+            "prefabName": "RoadCrossway",
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": -4.371138828673793e-8
+            },
+            "position": {
+                "x": 2.0,
+                "y": 0.0,
+                "z": 12.0
+            }
+        },
+        {
+            "prefabName": "RoadTurn",
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": -4.371138828673793e-8
+            },
+            "position": {
+                "x": 2.0,
+                "y": 0.0,
+                "z": 13.0
+            }
+        },
+        {
+            "prefabName": "Tree",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": -0.7071068286895752
+            },
+            "position": {
+                "x": 2.0,
+                "y": 0.0,
+                "z": 14.0
+            }
+        },
+        {
+            "prefabName": "RoadCrossway",
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": -4.371138828673793e-8
+            },
+            "position": {
+                "x": 3.0,
+                "y": 0.0,
+                "z": 11.0
+            }
+        },
+        {
+            "prefabName": "RoadCrosswayTunel",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": -0.7071068286895752
+            },
+            "position": {
+                "x": 3.0,
+                "y": 0.0,
+                "z": 12.0
+            }
+        },
+        {
+            "prefabName": "RoadCrossway",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": 0.7071068286895752
+            },
+            "position": {
+                "x": 3.0,
+                "y": 0.0,
+                "z": 13.0
+            }
+        },
+        {
+            "prefabName": "RoadStright",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "position": {
+                "x": 3.0,
+                "y": 0.0,
+                "z": 14.0
+            }
+        },
+        {
+            "prefabName": "RoadCrosswayTunel",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "position": {
+                "x": 3.0,
+                "y": 0.0,
+                "z": 15.0
+            }
+        },
+        {
+            "prefabName": "RoadCrosswayTunel",
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": -4.371138828673793e-8
+            },
+            "position": {
+                "x": 3.0,
+                "y": 0.0,
+                "z": 16.0
+            }
+        },
+        {
+            "prefabName": "RoadTurn",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": 0.7071068286895752
+            },
+            "position": {
+                "x": 2.0,
+                "y": 0.0,
+                "z": 16.0
+            }
+        },
+        {
+            "prefabName": "RoadTurn",
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": -4.371138828673793e-8
+            },
+            "position": {
+                "x": 2.0,
+                "y": 0.0,
+                "z": 17.0
+            }
+        },
+        {
+            "prefabName": "RoadCrosswayTunel",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": -0.7071068286895752
+            },
+            "position": {
+                "x": 3.0,
+                "y": 0.0,
+                "z": 17.0
+            }
+        },
+        {
+            "prefabName": "Tree",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "position": {
+                "x": 2.0,
+                "y": 0.0,
+                "z": 18.0
+            }
+        },
+        {
+            "prefabName": "BuildingTall",
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": -4.371138828673793e-8
+            },
+            "position": {
+                "x": 2.0,
+                "y": 0.0,
+                "z": 19.0
+            }
+        },
+        {
+            "prefabName": "BuildingTall",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "position": {
+                "x": 2.0,
+                "y": 0.0,
+                "z": 20.0
+            }
+        },
+        {
+            "prefabName": "RoadT",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": -0.7071068286895752
+            },
+            "position": {
+                "x": 4.0,
+                "y": 0.0,
+                "z": 12.0
+            }
+        },
+        {
+            "prefabName": "RoadCrossway",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "position": {
+                "x": 4.0,
+                "y": 0.0,
+                "z": 13.0
+            }
+        },
+        {
+            "prefabName": "RoadT",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": 0.7071068286895752
+            },
+            "position": {
+                "x": 4.0,
+                "y": 0.0,
+                "z": 14.0
+            }
+        },
+        {
+            "prefabName": "RoadCrossway",
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": -4.371138828673793e-8
+            },
+            "position": {
+                "x": 4.0,
+                "y": 0.0,
+                "z": 15.0
+            }
+        },
+        {
+            "prefabName": "RoadCrossway",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": 0.7071068286895752
+            },
+            "position": {
+                "x": 4.0,
+                "y": 0.0,
+                "z": 16.0
+            }
+        },
+        {
+            "prefabName": "RoadCrosswayTunel",
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": -4.371138828673793e-8
+            },
+            "position": {
+                "x": 4.0,
+                "y": 0.0,
+                "z": 17.0
+            }
+        },
+        {
+            "prefabName": "RoadCrosswayTunel",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": 0.7071068286895752
+            },
+            "position": {
+                "x": 4.0,
+                "y": 0.0,
+                "z": 18.0
+            }
+        },
+        {
+            "prefabName": "RoadTurn",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": 0.7071068286895752
+            },
+            "position": {
+                "x": 3.0,
+                "y": 0.0,
+                "z": 18.0
+            }
+        },
+        {
+            "prefabName": "RoadStrightTunel",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "position": {
+                "x": 3.0,
+                "y": 0.0,
+                "z": 19.0
+            }
+        },
+        {
+            "prefabName": "RoadStrightTunel",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "position": {
+                "x": 3.0,
+                "y": 0.0,
+                "z": 20.0
+            }
+        },
+        {
+            "prefabName": "RoadStrightTunel",
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": -4.371138828673793e-8
+            },
+            "position": {
+                "x": 4.0,
+                "y": 0.0,
+                "z": 19.0
+            }
+        },
+        {
+            "prefabName": "RoadTurn",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": -0.7071068286895752
+            },
+            "position": {
+                "x": 5.0,
+                "y": 0.0,
+                "z": 13.0
+            }
+        },
+        {
+            "prefabName": "RoadStright",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": -0.7071068286895752
+            },
+            "position": {
+                "x": 5.0,
+                "y": 0.0,
+                "z": 14.0
+            }
+        },
+        {
+            "prefabName": "RoadCrossway",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "position": {
+                "x": 5.0,
+                "y": 0.0,
+                "z": 12.0
+            }
+        },
+        {
+            "prefabName": "RoadStright",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "position": {
+                "x": 5.0,
+                "y": 0.0,
+                "z": 11.0
+            }
+        },
+        {
+            "prefabName": "RoadStright",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "position": {
+                "x": 5.0,
+                "y": 0.0,
+                "z": 10.0
+            }
+        },
+        {
+            "prefabName": "RoadTurn",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "position": {
+                "x": 5.0,
+                "y": 0.0,
+                "z": 15.0
+            }
+        },
+        {
+            "prefabName": "RoadCrossway",
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": -4.371138828673793e-8
+            },
+            "position": {
+                "x": 5.0,
+                "y": 0.0,
+                "z": 16.0
+            }
+        },
+        {
+            "prefabName": "RoadCrosswayTunel",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": -0.7071068286895752
+            },
+            "position": {
+                "x": 5.0,
+                "y": 0.0,
+                "z": 17.0
+            }
+        },
+        {
+            "prefabName": "RoadT",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": -0.7071068286895752
+            },
+            "position": {
+                "x": 5.0,
+                "y": 0.0,
+                "z": 18.0
+            }
+        },
+        {
+            "prefabName": "RoadCrosswayTunel",
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": -4.371138828673793e-8
+            },
+            "position": {
+                "x": 5.0,
+                "y": 0.0,
+                "z": 19.0
+            }
+        },
+        {
+            "prefabName": "RoadTurn",
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": -4.371138828673793e-8
+            },
+            "position": {
+                "x": 5.0,
+                "y": 0.0,
+                "z": 20.0
+            }
+        },
+        {
+            "prefabName": "RoadStrightTunel",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": 0.7071068286895752
+            },
+            "position": {
+                "x": 6.0,
+                "y": 0.0,
+                "z": 12.0
+            }
+        },
+        {
+            "prefabName": "RoadStrightTunel",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": -0.7071068286895752
+            },
+            "position": {
+                "x": 6.0,
+                "y": 0.0,
+                "z": 16.0
+            }
+        },
+        {
+            "prefabName": "RoadStrightTunel",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": 0.7071068286895752
+            },
+            "position": {
+                "x": 6.0,
+                "y": 0.0,
+                "z": 17.0
+            }
+        },
+        {
+            "prefabName": "House",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": -0.7071068286895752
+            },
+            "position": {
+                "x": 6.0,
+                "y": 0.0,
+                "z": 18.0
+            }
+        },
+        {
+            "prefabName": "RoadStright",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": -0.7071068286895752
+            },
+            "position": {
+                "x": 6.0,
+                "y": 0.0,
+                "z": 19.0
+            }
+        },
+        {
+            "prefabName": "RoadT",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "position": {
+                "x": 6.0,
+                "y": 0.0,
+                "z": 20.0
+            }
+        },
+        {
+            "prefabName": "RoadCrossway",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": -0.7071068286895752
+            },
+            "position": {
+                "x": 7.0,
+                "y": 0.0,
+                "z": 16.0
+            }
+        },
+        {
+            "prefabName": "RoadCrossway",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "position": {
+                "x": 7.0,
+                "y": 0.0,
+                "z": 19.0
+            }
+        },
+        {
+            "prefabName": "RoadTurn",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": 0.7071068286895752
+            },
+            "position": {
+                "x": 7.0,
+                "y": 0.0,
+                "z": 18.0
+            }
+        },
+        {
+            "prefabName": "RoadCrossway",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": -0.7071068286895752
+            },
+            "position": {
+                "x": 7.0,
+                "y": 0.0,
+                "z": 20.0
+            }
+        },
+        {
+            "prefabName": "RoadStrightTunel",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": 0.7071068286895752
+            },
+            "position": {
+                "x": 8.0,
+                "y": 0.0,
+                "z": 18.0
+            }
+        },
+        {
+            "prefabName": "RoadStrightTunel",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": -0.7071068286895752
+            },
+            "position": {
+                "x": 8.0,
+                "y": 0.0,
+                "z": 19.0
+            }
+        },
+        {
+            "prefabName": "RoadCrosswayTunel",
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": -4.371138828673793e-8
+            },
+            "position": {
+                "x": 9.0,
+                "y": 0.0,
+                "z": 18.0
+            }
+        },
+        {
+            "prefabName": "BuildingTall",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "position": {
+                "x": 4.0,
+                "y": 0.0,
+                "z": 20.0
+            }
+        },
+        {
+            "prefabName": "RoadStrightTunel",
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": -4.371138828673793e-8
+            },
+            "position": {
+                "x": 3.0,
+                "y": 0.0,
+                "z": 1.0
+            }
+        },
+        {
+            "prefabName": "RoadCrossway",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "position": {
+                "x": 3.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "prefabName": "RoadTurn",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "position": {
+                "x": 4.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "prefabName": "RoadT",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": 0.7071068286895752
+            },
+            "position": {
+                "x": 4.0,
+                "y": 0.0,
+                "z": 1.0
+            }
+        },
+        {
+            "prefabName": "RoadCrossway",
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": -4.371138828673793e-8
+            },
+            "position": {
+                "x": 4.0,
+                "y": 0.0,
+                "z": 2.0
+            }
+        },
+        {
+            "prefabName": "RoadStright",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "position": {
+                "x": 4.0,
+                "y": 0.0,
+                "z": 3.0
+            }
+        },
+        {
+            "prefabName": "RoadT",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": -0.7071068286895752
+            },
+            "position": {
+                "x": 4.0,
+                "y": 0.0,
+                "z": 4.0
+            }
+        },
+        {
+            "prefabName": "RoadStrightTunel",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": -0.7071068286895752
+            },
+            "position": {
+                "x": 5.0,
+                "y": 0.0,
+                "z": 1.0
+            }
+        },
+        {
+            "prefabName": "RoadTurn",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": -0.7071068286895752
+            },
+            "position": {
+                "x": 5.0,
+                "y": 0.0,
+                "z": 2.0
+            }
+        },
+        {
+            "prefabName": "BuildingTall",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": -0.7071068286895752
+            },
+            "position": {
+                "x": 5.0,
+                "y": 0.0,
+                "z": 3.0
+            }
+        },
+        {
+            "prefabName": "Tree",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "position": {
+                "x": 5.0,
+                "y": 0.0,
+                "z": 4.0
+            }
+        },
+        {
+            "prefabName": "BuildingTall",
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": -4.371138828673793e-8
+            },
+            "position": {
+                "x": 3.0,
+                "y": 0.0,
+                "z": 3.0
+            }
+        },
+        {
+            "prefabName": "House",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": -0.7071068286895752
+            },
+            "position": {
+                "x": 3.0,
+                "y": 0.0,
+                "z": 5.0
+            }
+        },
+        {
+            "prefabName": "Tree",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": 0.7071068286895752
+            },
+            "position": {
+                "x": 3.0,
+                "y": 0.0,
+                "z": 6.0
+            }
+        },
+        {
+            "prefabName": "BuildingTall",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": 0.7071068286895752
+            },
+            "position": {
+                "x": 3.0,
+                "y": 0.0,
+                "z": 7.0
+            }
+        },
+        {
+            "prefabName": "Tree",
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": -4.371138828673793e-8
+            },
+            "position": {
+                "x": 3.0,
+                "y": 0.0,
+                "z": 4.0
+            }
+        },
+        {
+            "prefabName": "Grass",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": 0.7071068286895752
+            },
+            "position": {
+                "x": 3.0,
+                "y": 0.0,
+                "z": 8.0
+            }
+        },
+        {
+            "prefabName": "RoadTurn",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": 0.7071068286895752
+            },
+            "position": {
+                "x": 3.0,
+                "y": 0.0,
+                "z": 9.0
+            }
+        },
+        {
+            "prefabName": "RoadStrightTunel",
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": -4.371138828673793e-8
+            },
+            "position": {
+                "x": 3.0,
+                "y": 0.0,
+                "z": 10.0
+            }
+        },
+        {
+            "prefabName": "RoadCrosswayTunel",
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": -4.371138828673793e-8
+            },
+            "position": {
+                "x": 4.0,
+                "y": 0.0,
+                "z": 9.0
+            }
+        },
+        {
+            "prefabName": "RoadStrightTunel",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "position": {
+                "x": 2.0,
+                "y": 0.0,
+                "z": 9.0
+            }
+        },
+        {
+            "prefabName": "BuildingTall",
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": -4.371138828673793e-8
+            },
+            "position": {
+                "x": 4.0,
+                "y": 0.0,
+                "z": 5.0
+            }
+        },
+        {
+            "prefabName": "Grass",
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": -4.371138828673793e-8
+            },
+            "position": {
+                "x": 5.0,
+                "y": 0.0,
+                "z": 5.0
+            }
+        },
+        {
+            "prefabName": "House",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": 0.7071068286895752
+            },
+            "position": {
+                "x": 4.0,
+                "y": 0.0,
+                "z": 6.0
+            }
+        },
+        {
+            "prefabName": "RoadTurn",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": 0.7071068286895752
+            },
+            "position": {
+                "x": 4.0,
+                "y": 0.0,
+                "z": 7.0
+            }
+        },
+        {
+            "prefabName": "RoadStrightTunel",
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": -4.371138828673793e-8
+            },
+            "position": {
+                "x": 4.0,
+                "y": 0.0,
+                "z": 8.0
+            }
+        },
+        {
+            "prefabName": "RoadTurn",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": -0.7071068286895752
+            },
+            "position": {
+                "x": 5.0,
+                "y": 0.0,
+                "z": 7.0
+            }
+        },
+        {
+            "prefabName": "RoadStright",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "position": {
+                "x": 4.0,
+                "y": 0.0,
+                "z": 10.0
+            }
+        },
+        {
+            "prefabName": "RoadStright",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "position": {
+                "x": 4.0,
+                "y": 0.0,
+                "z": 11.0
+            }
+        },
+        {
+            "prefabName": "Tree",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "position": {
+                "x": 5.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "prefabName": "BuildingTall",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "position": {
+                "x": 5.0,
+                "y": 0.0,
+                "z": 6.0
+            }
+        },
+        {
+            "prefabName": "House",
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": -4.371138828673793e-8
+            },
+            "position": {
+                "x": 5.0,
+                "y": 0.0,
+                "z": 8.0
+            }
+        },
+        {
+            "prefabName": "BuildingTall",
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": -4.371138828673793e-8
+            },
+            "position": {
+                "x": 5.0,
+                "y": 0.0,
+                "z": 9.0
+            }
+        },
+        {
+            "prefabName": "BuildingTall",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": 0.7071068286895752
+            },
+            "position": {
+                "x": 6.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "prefabName": "BuildingTall",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": 0.7071068286895752
+            },
+            "position": {
+                "x": 6.0,
+                "y": 0.0,
+                "z": 2.0
+            }
+        },
+        {
+            "prefabName": "BuildingTall",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": 0.7071068286895752
+            },
+            "position": {
+                "x": 6.0,
+                "y": 0.0,
+                "z": 3.0
+            }
+        },
+        {
+            "prefabName": "Tree",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": 0.7071068286895752
+            },
+            "position": {
+                "x": 6.0,
+                "y": 0.0,
+                "z": 4.0
+            }
+        },
+        {
+            "prefabName": "House",
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": -4.371138828673793e-8
+            },
+            "position": {
+                "x": 6.0,
+                "y": 0.0,
+                "z": 1.0
+            }
+        },
+        {
+            "prefabName": "RoadStright",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": -0.7071068286895752
+            },
+            "position": {
+                "x": 6.0,
+                "y": 0.0,
+                "z": 5.0
+            }
+        },
+        {
+            "prefabName": "RoadCrosswayTunel",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": 0.7071068286895752
+            },
+            "position": {
+                "x": 7.0,
+                "y": 0.0,
+                "z": 5.0
+            }
+        },
+        {
+            "prefabName": "House",
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": -4.371138828673793e-8
+            },
+            "position": {
+                "x": 6.0,
+                "y": 0.0,
+                "z": 6.0
+            }
+        },
+        {
+            "prefabName": "House",
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": -4.371138828673793e-8
+            },
+            "position": {
+                "x": 6.0,
+                "y": 0.0,
+                "z": 7.0
+            }
+        },
+        {
+            "prefabName": "Grass",
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": -4.371138828673793e-8
+            },
+            "position": {
+                "x": 6.0,
+                "y": 0.0,
+                "z": 8.0
+            }
+        },
+        {
+            "prefabName": "BuildingTall",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "position": {
+                "x": 6.0,
+                "y": 0.0,
+                "z": 9.0
+            }
+        },
+        {
+            "prefabName": "Tree",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "position": {
+                "x": 6.0,
+                "y": 0.0,
+                "z": 10.0
+            }
+        },
+        {
+            "prefabName": "RoadTurn",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": 0.7071068286895752
+            },
+            "position": {
+                "x": 6.0,
+                "y": 0.0,
+                "z": 11.0
+            }
+        },
+        {
+            "prefabName": "RoadStright",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": -0.7071068286895752
+            },
+            "position": {
+                "x": 7.0,
+                "y": 0.0,
+                "z": 11.0
+            }
+        },
+        {
+            "prefabName": "Tree",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": 0.7071068286895752
+            },
+            "position": {
+                "x": 7.0,
+                "y": 0.0,
+                "z": 10.0
+            }
+        },
+        {
+            "prefabName": "BuildingTall",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": 0.7071068286895752
+            },
+            "position": {
+                "x": 7.0,
+                "y": 0.0,
+                "z": 9.0
+            }
+        },
+        {
+            "prefabName": "House",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": 0.7071068286895752
+            },
+            "position": {
+                "x": 7.0,
+                "y": 0.0,
+                "z": 8.0
+            }
+        },
+        {
+            "prefabName": "Grass",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "position": {
+                "x": 7.0,
+                "y": 0.0,
+                "z": 7.0
+            }
+        },
+        {
+            "prefabName": "BuildingTall",
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": -4.371138828673793e-8
+            },
+            "position": {
+                "x": 7.0,
+                "y": 0.0,
+                "z": 6.0
+            }
+        },
+        {
+            "prefabName": "RoadCrosswayTunel",
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": -4.371138828673793e-8
+            },
+            "position": {
+                "x": 8.0,
+                "y": 0.0,
+                "z": 11.0
+            }
+        },
+        {
+            "prefabName": "House",
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": -4.371138828673793e-8
+            },
+            "position": {
+                "x": 6.0,
+                "y": 0.0,
+                "z": 13.0
+            }
+        },
+        {
+            "prefabName": "Tree",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": -0.7071068286895752
+            },
+            "position": {
+                "x": 6.0,
+                "y": 0.0,
+                "z": 14.0
+            }
+        },
+        {
+            "prefabName": "RoadStrightTunel",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": -0.7071068286895752
+            },
+            "position": {
+                "x": 6.0,
+                "y": 0.0,
+                "z": 15.0
+            }
+        },
+        {
+            "prefabName": "RoadT",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": -0.7071068286895752
+            },
+            "position": {
+                "x": 7.0,
+                "y": 0.0,
+                "z": 15.0
+            }
+        },
+        {
+            "prefabName": "RoadT",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": 0.7071068286895752
+            },
+            "position": {
+                "x": 7.0,
+                "y": 0.0,
+                "z": 14.0
+            }
+        },
+        {
+            "prefabName": "RoadStrightTunel",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "position": {
+                "x": 7.0,
+                "y": 0.0,
+                "z": 13.0
+            }
+        },
+        {
+            "prefabName": "RoadT",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "position": {
+                "x": 7.0,
+                "y": 0.0,
+                "z": 12.0
+            }
+        },
+        {
+            "prefabName": "RoadStrightTunel",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": -0.7071068286895752
+            },
+            "position": {
+                "x": 8.0,
+                "y": 0.0,
+                "z": 12.0
+            }
+        },
+        {
+            "prefabName": "BuildingTall",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": 0.7071068286895752
+            },
+            "position": {
+                "x": 8.0,
+                "y": 0.0,
+                "z": 13.0
+            }
+        },
+        {
+            "prefabName": "RoadT",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "position": {
+                "x": 8.0,
+                "y": 0.0,
+                "z": 14.0
+            }
+        },
+        {
+            "prefabName": "RoadStright",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "position": {
+                "x": 8.0,
+                "y": 0.0,
+                "z": 15.0
+            }
+        },
+        {
+            "prefabName": "RoadCrosswayTunel",
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": -4.371138828673793e-8
+            },
+            "position": {
+                "x": 8.0,
+                "y": 0.0,
+                "z": 16.0
+            }
+        },
+        {
+            "prefabName": "RoadTurn",
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": -4.371138828673793e-8
+            },
+            "position": {
+                "x": 8.0,
+                "y": 0.0,
+                "z": 17.0
+            }
+        },
+        {
+            "prefabName": "BuildingTall",
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": -4.371138828673793e-8
+            },
+            "position": {
+                "x": 7.0,
+                "y": 0.0,
+                "z": 17.0
+            }
+        },
+        {
+            "prefabName": "RoadCrosswayTunel",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": 0.7071068286895752
+            },
+            "position": {
+                "x": 9.0,
+                "y": 0.0,
+                "z": 12.0
+            }
+        },
+        {
+            "prefabName": "RoadStright",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "position": {
+                "x": 9.0,
+                "y": 0.0,
+                "z": 13.0
+            }
+        },
+        {
+            "prefabName": "RoadT",
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": -4.371138828673793e-8
+            },
+            "position": {
+                "x": 9.0,
+                "y": 0.0,
+                "z": 14.0
+            }
+        },
+        {
+            "prefabName": "RoadStright",
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": -4.371138828673793e-8
+            },
+            "position": {
+                "x": 9.0,
+                "y": 0.0,
+                "z": 11.0
+            }
+        },
+        {
+            "prefabName": "BuildingTall",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": -0.7071068286895752
+            },
+            "position": {
+                "x": 9.0,
+                "y": 0.0,
+                "z": 15.0
+            }
+        },
+        {
+            "prefabName": "RoadStright",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": 0.7071068286895752
+            },
+            "position": {
+                "x": 9.0,
+                "y": 0.0,
+                "z": 16.0
+            }
+        },
+        {
+            "prefabName": "RoadStright",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": 0.7071068286895752
+            },
+            "position": {
+                "x": 9.0,
+                "y": 0.0,
+                "z": 17.0
+            }
+        },
+        {
+            "prefabName": "RoadT",
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": -4.371138828673793e-8
+            },
+            "position": {
+                "x": 10.0,
+                "y": 0.0,
+                "z": 12.0
+            }
+        },
+        {
+            "prefabName": "RoadCrossway",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "position": {
+                "x": 10.0,
+                "y": 0.0,
+                "z": 14.0
+            }
+        },
+        {
+            "prefabName": "RoadStright",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "position": {
+                "x": 10.0,
+                "y": 0.0,
+                "z": 15.0
+            }
+        },
+        {
+            "prefabName": "RoadT",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": -0.7071068286895752
+            },
+            "position": {
+                "x": 10.0,
+                "y": 0.0,
+                "z": 16.0
+            }
+        },
+        {
+            "prefabName": "RoadCrossway",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "position": {
+                "x": 10.0,
+                "y": 0.0,
+                "z": 17.0
+            }
+        },
+        {
+            "prefabName": "RoadCrosswayTunel",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": 0.7071068286895752
+            },
+            "position": {
+                "x": 10.0,
+                "y": 0.0,
+                "z": 13.0
+            }
+        },
+        {
+            "prefabName": "RoadCrossway",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": -0.7071068286895752
+            },
+            "position": {
+                "x": 10.0,
+                "y": 0.0,
+                "z": 18.0
+            }
+        },
+        {
+            "prefabName": "RoadCrosswayTunel",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": 0.7071068286895752
+            },
+            "position": {
+                "x": 10.0,
+                "y": 0.0,
+                "z": 19.0
+            }
+        },
+        {
+            "prefabName": "RoadStrightTunel",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": -0.7071068286895752
+            },
+            "position": {
+                "x": 9.0,
+                "y": 0.0,
+                "z": 19.0
+            }
+        },
+        {
+            "prefabName": "RoadCrosswayTunel",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": -0.7071068286895752
+            },
+            "position": {
+                "x": 10.0,
+                "y": 0.0,
+                "z": 20.0
+            }
+        },
+        {
+            "prefabName": "RoadCrosswayTunel",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": 0.7071068286895752
+            },
+            "position": {
+                "x": 11.0,
+                "y": 0.0,
+                "z": 14.0
+            }
+        },
+        {
+            "prefabName": "RoadCrosswayTunel",
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": -4.371138828673793e-8
+            },
+            "position": {
+                "x": 11.0,
+                "y": 0.0,
+                "z": 13.0
+            }
+        },
+        {
+            "prefabName": "RoadCrossway",
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": -4.371138828673793e-8
+            },
+            "position": {
+                "x": 11.0,
+                "y": 0.0,
+                "z": 12.0
+            }
+        },
+        {
+            "prefabName": "RoadStright",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "position": {
+                "x": 11.0,
+                "y": 0.0,
+                "z": 11.0
+            }
+        },
+        {
+            "prefabName": "RoadTurn",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "position": {
+                "x": 11.0,
+                "y": 0.0,
+                "z": 10.0
+            }
+        },
+        {
+            "prefabName": "RoadCrossway",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": 0.7071068286895752
+            },
+            "position": {
+                "x": 11.0,
+                "y": 0.0,
+                "z": 15.0
+            }
+        },
+        {
+            "prefabName": "RoadCrossway",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": -0.7071068286895752
+            },
+            "position": {
+                "x": 11.0,
+                "y": 0.0,
+                "z": 17.0
+            }
+        },
+        {
+            "prefabName": "RoadStright",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "position": {
+                "x": 11.0,
+                "y": 0.0,
+                "z": 16.0
+            }
+        },
+        {
+            "prefabName": "RoadCrosswayTunel",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": 0.7071068286895752
+            },
+            "position": {
+                "x": 11.0,
+                "y": 0.0,
+                "z": 18.0
+            }
+        },
+        {
+            "prefabName": "RoadCrosswayTunel",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "position": {
+                "x": 11.0,
+                "y": 0.0,
+                "z": 19.0
+            }
+        },
+        {
+            "prefabName": "RoadCrossway",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": -0.7071068286895752
+            },
+            "position": {
+                "x": 11.0,
+                "y": 0.0,
+                "z": 20.0
+            }
+        },
+        {
+            "prefabName": "RoadCrossway",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": 0.7071068286895752
+            },
+            "position": {
+                "x": 12.0,
+                "y": 0.0,
+                "z": 12.0
+            }
+        },
+        {
+            "prefabName": "RoadTurn",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": -0.7071068286895752
+            },
+            "position": {
+                "x": 12.0,
+                "y": 0.0,
+                "z": 13.0
+            }
+        },
+        {
+            "prefabName": "RoadStright",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": 0.7071068286895752
+            },
+            "position": {
+                "x": 12.0,
+                "y": 0.0,
+                "z": 14.0
+            }
+        },
+        {
+            "prefabName": "RoadStrightTunel",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": -0.7071068286895752
+            },
+            "position": {
+                "x": 12.0,
+                "y": 0.0,
+                "z": 17.0
+            }
+        },
+        {
+            "prefabName": "RoadCrosswayTunel",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": 0.7071068286895752
+            },
+            "position": {
+                "x": 12.0,
+                "y": 0.0,
+                "z": 19.0
+            }
+        },
+        {
+            "prefabName": "RoadCrossway",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": -0.7071068286895752
+            },
+            "position": {
+                "x": 12.0,
+                "y": 0.0,
+                "z": 20.0
+            }
+        },
+        {
+            "prefabName": "RoadT",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": 0.7071068286895752
+            },
+            "position": {
+                "x": 12.0,
+                "y": 0.0,
+                "z": 18.0
+            }
+        },
+        {
+            "prefabName": "RoadCrosswayTunel",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": 0.7071068286895752
+            },
+            "position": {
+                "x": 13.0,
+                "y": 0.0,
+                "z": 14.0
+            }
+        },
+        {
+            "prefabName": "RoadCrosswayTunel",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": 0.7071068286895752
+            },
+            "position": {
+                "x": 13.0,
+                "y": 0.0,
+                "z": 18.0
+            }
+        },
+        {
+            "prefabName": "RoadCrossway",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "position": {
+                "x": 13.0,
+                "y": 0.0,
+                "z": 19.0
+            }
+        },
+        {
+            "prefabName": "RoadCrossway",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": -0.7071068286895752
+            },
+            "position": {
+                "x": 13.0,
+                "y": 0.0,
+                "z": 17.0
+            }
+        },
+        {
+            "prefabName": "RoadStrightTunel",
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": -4.371138828673793e-8
+            },
+            "position": {
+                "x": 13.0,
+                "y": 0.0,
+                "z": 16.0
+            }
+        },
+        {
+            "prefabName": "RoadCrosswayTunel",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "position": {
+                "x": 13.0,
+                "y": 0.0,
+                "z": 15.0
+            }
+        },
+        {
+            "prefabName": "RoadTurn",
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": -4.371138828673793e-8
+            },
+            "position": {
+                "x": 13.0,
+                "y": 0.0,
+                "z": 20.0
+            }
+        },
+        {
+            "prefabName": "RoadCrosswayTunel",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": -0.7071068286895752
+            },
+            "position": {
+                "x": 14.0,
+                "y": 0.0,
+                "z": 18.0
+            }
+        },
+        {
+            "prefabName": "RoadTurn",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "position": {
+                "x": 14.0,
+                "y": 0.0,
+                "z": 20.0
+            }
+        },
+        {
+            "prefabName": "Tree",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "position": {
+                "x": 12.0,
+                "y": 0.0,
+                "z": 16.0
+            }
+        },
+        {
+            "prefabName": "RoadStrightTunel",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "position": {
+                "x": 7.0,
+                "y": 0.0,
+                "z": 2.0
+            }
+        },
+        {
+            "prefabName": "RoadCrosswayTunel",
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": -4.371138828673793e-8
+            },
+            "position": {
+                "x": 7.0,
+                "y": 0.0,
+                "z": 1.0
+            }
+        },
+        {
+            "prefabName": "RoadCrosswayTunel",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "position": {
+                "x": 7.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "prefabName": "RoadCrossway",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "position": {
+                "x": 7.0,
+                "y": 0.0,
+                "z": 3.0
+            }
+        },
+        {
+            "prefabName": "RoadStrightTunel",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": -0.7071068286895752
+            },
+            "position": {
+                "x": 8.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "prefabName": "RoadStright",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": -0.7071068286895752
+            },
+            "position": {
+                "x": 8.0,
+                "y": 0.0,
+                "z": 1.0
+            }
+        },
+        {
+            "prefabName": "Grass",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": 0.7071068286895752
+            },
+            "position": {
+                "x": 8.0,
+                "y": 0.0,
+                "z": 2.0
+            }
+        },
+        {
+            "prefabName": "RoadCrosswayTunel",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": -0.7071068286895752
+            },
+            "position": {
+                "x": 9.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "prefabName": "RoadStright",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": 0.7071068286895752
+            },
+            "position": {
+                "x": 9.0,
+                "y": 0.0,
+                "z": 1.0
+            }
+        },
+        {
+            "prefabName": "House",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": -0.7071068286895752
+            },
+            "position": {
+                "x": 9.0,
+                "y": 0.0,
+                "z": 2.0
+            }
+        },
+        {
+            "prefabName": "RoadT",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "position": {
+                "x": 10.0,
+                "y": 0.0,
+                "z": 1.0
+            }
+        },
+        {
+            "prefabName": "House",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": -0.7071068286895752
+            },
+            "position": {
+                "x": 7.0,
+                "y": 0.0,
+                "z": 4.0
+            }
+        },
+        {
+            "prefabName": "Grass",
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": -4.371138828673793e-8
+            },
+            "position": {
+                "x": 8.0,
+                "y": 0.0,
+                "z": 3.0
+            }
+        },
+        {
+            "prefabName": "BuildingTall",
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": -4.371138828673793e-8
+            },
+            "position": {
+                "x": 8.0,
+                "y": 0.0,
+                "z": 4.0
+            }
+        },
+        {
+            "prefabName": "BuildingTall",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "position": {
+                "x": 8.0,
+                "y": 0.0,
+                "z": 5.0
+            }
+        },
+        {
+            "prefabName": "House",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": 0.7071068286895752
+            },
+            "position": {
+                "x": 8.0,
+                "y": 0.0,
+                "z": 6.0
+            }
+        },
+        {
+            "prefabName": "BuildingTall",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "position": {
+                "x": 8.0,
+                "y": 0.0,
+                "z": 7.0
+            }
+        },
+        {
+            "prefabName": "House",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": -0.7071068286895752
+            },
+            "position": {
+                "x": 8.0,
+                "y": 0.0,
+                "z": 8.0
+            }
+        },
+        {
+            "prefabName": "House",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": 0.7071068286895752
+            },
+            "position": {
+                "x": 8.0,
+                "y": 0.0,
+                "z": 9.0
+            }
+        },
+        {
+            "prefabName": "BuildingTall",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": -0.7071068286895752
+            },
+            "position": {
+                "x": 8.0,
+                "y": 0.0,
+                "z": 10.0
+            }
+        },
+        {
+            "prefabName": "BuildingTall",
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": -4.371138828673793e-8
+            },
+            "position": {
+                "x": 8.0,
+                "y": 0.0,
+                "z": 20.0
+            }
+        },
+        {
+            "prefabName": "RoadStrightTunel",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": 0.7071068286895752
+            },
+            "position": {
+                "x": 9.0,
+                "y": 0.0,
+                "z": 3.0
+            }
+        },
+        {
+            "prefabName": "BuildingTall",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": -0.7071068286895752
+            },
+            "position": {
+                "x": 9.0,
+                "y": 0.0,
+                "z": 4.0
+            }
+        },
+        {
+            "prefabName": "BuildingTall",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "position": {
+                "x": 9.0,
+                "y": 0.0,
+                "z": 5.0
+            }
+        },
+        {
+            "prefabName": "Grass",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "position": {
+                "x": 9.0,
+                "y": 0.0,
+                "z": 6.0
+            }
+        },
+        {
+            "prefabName": "House",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": 0.7071068286895752
+            },
+            "position": {
+                "x": 9.0,
+                "y": 0.0,
+                "z": 7.0
+            }
+        },
+        {
+            "prefabName": "House",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "position": {
+                "x": 9.0,
+                "y": 0.0,
+                "z": 8.0
+            }
+        },
+        {
+            "prefabName": "Grass",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": 0.7071068286895752
+            },
+            "position": {
+                "x": 9.0,
+                "y": 0.0,
+                "z": 9.0
+            }
+        },
+        {
+            "prefabName": "House",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": -0.7071068286895752
+            },
+            "position": {
+                "x": 9.0,
+                "y": 0.0,
+                "z": 10.0
+            }
+        },
+        {
+            "prefabName": "RoadCrosswayTunel",
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": -4.371138828673793e-8
+            },
+            "position": {
+                "x": 10.0,
+                "y": 0.0,
+                "z": 3.0
+            }
+        },
+        {
+            "prefabName": "House",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "position": {
+                "x": 9.0,
+                "y": 0.0,
+                "z": 20.0
+            }
+        },
+        {
+            "prefabName": "RoadTurn",
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": -4.371138828673793e-8
+            },
+            "position": {
+                "x": 10.0,
+                "y": 0.0,
+                "z": 2.0
+            }
+        },
+        {
+            "prefabName": "RoadStright",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": 0.7071068286895752
+            },
+            "position": {
+                "x": 11.0,
+                "y": 0.0,
+                "z": 2.0
+            }
+        },
+        {
+            "prefabName": "RoadCrossway",
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": -4.371138828673793e-8
+            },
+            "position": {
+                "x": 12.0,
+                "y": 0.0,
+                "z": 2.0
+            }
+        },
+        {
+            "prefabName": "House",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "position": {
+                "x": 10.0,
+                "y": 0.0,
+                "z": 4.0
+            }
+        },
+        {
+            "prefabName": "Tree",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "position": {
+                "x": 10.0,
+                "y": 0.0,
+                "z": 5.0
+            }
+        },
+        {
+            "prefabName": "BuildingTall",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "position": {
+                "x": 10.0,
+                "y": 0.0,
+                "z": 6.0
+            }
+        },
+        {
+            "prefabName": "BuildingTall",
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": -4.371138828673793e-8
+            },
+            "position": {
+                "x": 10.0,
+                "y": 0.0,
+                "z": 7.0
+            }
+        },
+        {
+            "prefabName": "Tree",
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": -4.371138828673793e-8
+            },
+            "position": {
+                "x": 10.0,
+                "y": 0.0,
+                "z": 8.0
+            }
+        },
+        {
+            "prefabName": "BuildingTall",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": -0.7071068286895752
+            },
+            "position": {
+                "x": 10.0,
+                "y": 0.0,
+                "z": 9.0
+            }
+        },
+        {
+            "prefabName": "BuildingTall",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": -0.7071068286895752
+            },
+            "position": {
+                "x": 10.0,
+                "y": 0.0,
+                "z": 10.0
+            }
+        },
+        {
+            "prefabName": "House",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": 0.7071068286895752
+            },
+            "position": {
+                "x": 10.0,
+                "y": 0.0,
+                "z": 11.0
+            }
+        },
+        {
+            "prefabName": "RoadT",
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": -4.371138828673793e-8
+            },
+            "position": {
+                "x": 11.0,
+                "y": 0.0,
+                "z": 1.0
+            }
+        },
+        {
+            "prefabName": "RoadT",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": 0.7071068286895752
+            },
+            "position": {
+                "x": 11.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "prefabName": "RoadCrossway",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "position": {
+                "x": 12.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "prefabName": "RoadTurn",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "position": {
+                "x": 12.0,
+                "y": 0.0,
+                "z": 1.0
+            }
+        },
+        {
+            "prefabName": "RoadStrightTunel",
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": -4.371138828673793e-8
+            },
+            "position": {
+                "x": 10.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "prefabName": "Tree",
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": -4.371138828673793e-8
+            },
+            "position": {
+                "x": 11.0,
+                "y": 0.0,
+                "z": 3.0
+            }
+        },
+        {
+            "prefabName": "Grass",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": -0.7071068286895752
+            },
+            "position": {
+                "x": 11.0,
+                "y": 0.0,
+                "z": 4.0
+            }
+        },
+        {
+            "prefabName": "Tree",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "position": {
+                "x": 11.0,
+                "y": 0.0,
+                "z": 5.0
+            }
+        },
+        {
+            "prefabName": "BuildingTall",
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": -4.371138828673793e-8
+            },
+            "position": {
+                "x": 11.0,
+                "y": 0.0,
+                "z": 6.0
+            }
+        },
+        {
+            "prefabName": "House",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": 0.7071068286895752
+            },
+            "position": {
+                "x": 11.0,
+                "y": 0.0,
+                "z": 7.0
+            }
+        },
+        {
+            "prefabName": "Tree",
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": -4.371138828673793e-8
+            },
+            "position": {
+                "x": 11.0,
+                "y": 0.0,
+                "z": 8.0
+            }
+        },
+        {
+            "prefabName": "Tree",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "position": {
+                "x": 11.0,
+                "y": 0.0,
+                "z": 9.0
+            }
+        },
+        {
+            "prefabName": "Grass",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "position": {
+                "x": 12.0,
+                "y": 0.0,
+                "z": 3.0
+            }
+        },
+        {
+            "prefabName": "RoadStrightTunel",
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": -4.371138828673793e-8
+            },
+            "position": {
+                "x": 12.0,
+                "y": 0.0,
+                "z": 4.0
+            }
+        },
+        {
+            "prefabName": "RoadStrightTunel",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "position": {
+                "x": 12.0,
+                "y": 0.0,
+                "z": 5.0
+            }
+        },
+        {
+            "prefabName": "RoadStright",
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": -4.371138828673793e-8
+            },
+            "position": {
+                "x": 12.0,
+                "y": 0.0,
+                "z": 6.0
+            }
+        },
+        {
+            "prefabName": "RoadStright",
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": -4.371138828673793e-8
+            },
+            "position": {
+                "x": 12.0,
+                "y": 0.0,
+                "z": 7.0
+            }
+        },
+        {
+            "prefabName": "RoadStright",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "position": {
+                "x": 12.0,
+                "y": 0.0,
+                "z": 8.0
+            }
+        },
+        {
+            "prefabName": "RoadStright",
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": -4.371138828673793e-8
+            },
+            "position": {
+                "x": 12.0,
+                "y": 0.0,
+                "z": 9.0
+            }
+        },
+        {
+            "prefabName": "RoadStrightTunel",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "position": {
+                "x": 12.0,
+                "y": 0.0,
+                "z": 10.0
+            }
+        },
+        {
+            "prefabName": "RoadT",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": 0.7071068286895752
+            },
+            "position": {
+                "x": 12.0,
+                "y": 0.0,
+                "z": 11.0
+            }
+        },
+        {
+            "prefabName": "RoadStrightTunel",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": 0.7071068286895752
+            },
+            "position": {
+                "x": 13.0,
+                "y": 0.0,
+                "z": 11.0
+            }
+        },
+        {
+            "prefabName": "Grass",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": -0.7071068286895752
+            },
+            "position": {
+                "x": 13.0,
+                "y": 0.0,
+                "z": 10.0
+            }
+        },
+        {
+            "prefabName": "Grass",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": -0.7071068286895752
+            },
+            "position": {
+                "x": 13.0,
+                "y": 0.0,
+                "z": 9.0
+            }
+        },
+        {
+            "prefabName": "BuildingTall",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "position": {
+                "x": 13.0,
+                "y": 0.0,
+                "z": 8.0
+            }
+        },
+        {
+            "prefabName": "House",
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": -4.371138828673793e-8
+            },
+            "position": {
+                "x": 13.0,
+                "y": 0.0,
+                "z": 7.0
+            }
+        },
+        {
+            "prefabName": "Tree",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "position": {
+                "x": 13.0,
+                "y": 0.0,
+                "z": 6.0
+            }
+        },
+        {
+            "prefabName": "House",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": -0.7071068286895752
+            },
+            "position": {
+                "x": 13.0,
+                "y": 0.0,
+                "z": 5.0
+            }
+        },
+        {
+            "prefabName": "BuildingTall",
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": -4.371138828673793e-8
+            },
+            "position": {
+                "x": 13.0,
+                "y": 0.0,
+                "z": 4.0
+            }
+        },
+        {
+            "prefabName": "RoadStright",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": -0.7071068286895752
+            },
+            "position": {
+                "x": 14.0,
+                "y": 0.0,
+                "z": 11.0
+            }
+        },
+        {
+            "prefabName": "BuildingTall",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": 0.7071068286895752
+            },
+            "position": {
+                "x": 12.0,
+                "y": 0.0,
+                "z": 15.0
+            }
+        },
+        {
+            "prefabName": "RoadStright",
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": -4.371138828673793e-8
+            },
+            "position": {
+                "x": 13.0,
+                "y": 0.0,
+                "z": 1.0
+            }
+        },
+        {
+            "prefabName": "RoadCrosswayTunel",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": 0.7071068286895752
+            },
+            "position": {
+                "x": 13.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "prefabName": "RoadTurn",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": -0.7071068286895752
+            },
+            "position": {
+                "x": 13.0,
+                "y": 0.0,
+                "z": 2.0
+            }
+        },
+        {
+            "prefabName": "RoadStrightTunel",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": 0.7071068286895752
+            },
+            "position": {
+                "x": 14.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "prefabName": "BuildingTall",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": -0.7071068286895752
+            },
+            "position": {
+                "x": 14.0,
+                "y": 0.0,
+                "z": 1.0
+            }
+        },
+        {
+            "prefabName": "RoadCrosswayTunel",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": 0.7071068286895752
+            },
+            "position": {
+                "x": 15.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "prefabName": "BuildingTall",
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": -4.371138828673793e-8
+            },
+            "position": {
+                "x": 13.0,
+                "y": 0.0,
+                "z": 3.0
+            }
+        },
+        {
+            "prefabName": "Grass",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "position": {
+                "x": 13.0,
+                "y": 0.0,
+                "z": 12.0
+            }
+        },
+        {
+            "prefabName": "House",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "position": {
+                "x": 13.0,
+                "y": 0.0,
+                "z": 13.0
+            }
+        },
+        {
+            "prefabName": "Tree",
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": -4.371138828673793e-8
+            },
+            "position": {
+                "x": 14.0,
+                "y": 0.0,
+                "z": 2.0
+            }
+        },
+        {
+            "prefabName": "Tree",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "position": {
+                "x": 14.0,
+                "y": 0.0,
+                "z": 3.0
+            }
+        },
+        {
+            "prefabName": "Grass",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": 0.7071068286895752
+            },
+            "position": {
+                "x": 14.0,
+                "y": 0.0,
+                "z": 4.0
+            }
+        },
+        {
+            "prefabName": "House",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": -0.7071068286895752
+            },
+            "position": {
+                "x": 14.0,
+                "y": 0.0,
+                "z": 5.0
+            }
+        },
+        {
+            "prefabName": "BuildingTall",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": -0.7071068286895752
+            },
+            "position": {
+                "x": 14.0,
+                "y": 0.0,
+                "z": 6.0
+            }
+        },
+        {
+            "prefabName": "Grass",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": 0.7071068286895752
+            },
+            "position": {
+                "x": 14.0,
+                "y": 0.0,
+                "z": 7.0
+            }
+        },
+        {
+            "prefabName": "House",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": -0.7071068286895752
+            },
+            "position": {
+                "x": 14.0,
+                "y": 0.0,
+                "z": 8.0
+            }
+        },
+        {
+            "prefabName": "Grass",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "position": {
+                "x": 14.0,
+                "y": 0.0,
+                "z": 9.0
+            }
+        },
+        {
+            "prefabName": "House",
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": -4.371138828673793e-8
+            },
+            "position": {
+                "x": 14.0,
+                "y": 0.0,
+                "z": 10.0
+            }
+        },
+        {
+            "prefabName": "RoadTurn",
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": -4.371138828673793e-8
+            },
+            "position": {
+                "x": 14.0,
+                "y": 0.0,
+                "z": 13.0
+            }
+        },
+        {
+            "prefabName": "Tree",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": 0.7071068286895752
+            },
+            "position": {
+                "x": 14.0,
+                "y": 0.0,
+                "z": 16.0
+            }
+        },
+        {
+            "prefabName": "House",
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": -4.371138828673793e-8
+            },
+            "position": {
+                "x": 14.0,
+                "y": 0.0,
+                "z": 15.0
+            }
+        },
+        {
+            "prefabName": "RoadTurn",
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": -4.371138828673793e-8
+            },
+            "position": {
+                "x": 14.0,
+                "y": 0.0,
+                "z": 14.0
+            }
+        },
+        {
+            "prefabName": "RoadStright",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": 0.7071068286895752
+            },
+            "position": {
+                "x": 15.0,
+                "y": 0.0,
+                "z": 14.0
+            }
+        },
+        {
+            "prefabName": "RoadTurn",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": 0.7071068286895752
+            },
+            "position": {
+                "x": 15.0,
+                "y": 0.0,
+                "z": 15.0
+            }
+        },
+        {
+            "prefabName": "RoadTurn",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "position": {
+                "x": 16.0,
+                "y": 0.0,
+                "z": 14.0
+            }
+        },
+        {
+            "prefabName": "RoadStrightTunel",
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": -4.371138828673793e-8
+            },
+            "position": {
+                "x": 16.0,
+                "y": 0.0,
+                "z": 15.0
+            }
+        },
+        {
+            "prefabName": "Grass",
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": -4.371138828673793e-8
+            },
+            "position": {
+                "x": 14.0,
+                "y": 0.0,
+                "z": 17.0
+            }
+        },
+        {
+            "prefabName": "RoadStright",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": -0.7071068286895752
+            },
+            "position": {
+                "x": 14.0,
+                "y": 0.0,
+                "z": 19.0
+            }
+        },
+        {
+            "prefabName": "BuildingTall",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "position": {
+                "x": 15.0,
+                "y": 0.0,
+                "z": 1.0
+            }
+        },
+        {
+            "prefabName": "RoadT",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "position": {
+                "x": 15.0,
+                "y": 0.0,
+                "z": 2.0
+            }
+        },
+        {
+            "prefabName": "RoadStright",
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": -4.371138828673793e-8
+            },
+            "position": {
+                "x": 15.0,
+                "y": 0.0,
+                "z": 3.0
+            }
+        },
+        {
+            "prefabName": "RoadT",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": 0.7071068286895752
+            },
+            "position": {
+                "x": 15.0,
+                "y": 0.0,
+                "z": 4.0
+            }
+        },
+        {
+            "prefabName": "RoadStrightTunel",
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": -4.371138828673793e-8
+            },
+            "position": {
+                "x": 15.0,
+                "y": 0.0,
+                "z": 5.0
+            }
+        },
+        {
+            "prefabName": "RoadTurn",
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": -4.371138828673793e-8
+            },
+            "position": {
+                "x": 15.0,
+                "y": 0.0,
+                "z": 6.0
+            }
+        },
+        {
+            "prefabName": "House",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": -0.7071068286895752
+            },
+            "position": {
+                "x": 15.0,
+                "y": 0.0,
+                "z": 7.0
+            }
+        },
+        {
+            "prefabName": "Grass",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": -0.7071068286895752
+            },
+            "position": {
+                "x": 15.0,
+                "y": 0.0,
+                "z": 8.0
+            }
+        },
+        {
+            "prefabName": "Tree",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": 0.7071068286895752
+            },
+            "position": {
+                "x": 15.0,
+                "y": 0.0,
+                "z": 9.0
+            }
+        },
+        {
+            "prefabName": "BuildingTall",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": 0.7071068286895752
+            },
+            "position": {
+                "x": 15.0,
+                "y": 0.0,
+                "z": 10.0
+            }
+        },
+        {
+            "prefabName": "RoadCrosswayTunel",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": -0.7071068286895752
+            },
+            "position": {
+                "x": 16.0,
+                "y": 0.0,
+                "z": 2.0
+            }
+        },
+        {
+            "prefabName": "RoadTurn",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "position": {
+                "x": 16.0,
+                "y": 0.0,
+                "z": 4.0
+            }
+        },
+        {
+            "prefabName": "RoadStright",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "position": {
+                "x": 16.0,
+                "y": 0.0,
+                "z": 5.0
+            }
+        },
+        {
+            "prefabName": "Tree",
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": -4.371138828673793e-8
+            },
+            "position": {
+                "x": 16.0,
+                "y": 0.0,
+                "z": 3.0
+            }
+        },
+        {
+            "prefabName": "RoadT",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": -0.7071068286895752
+            },
+            "position": {
+                "x": 16.0,
+                "y": 0.0,
+                "z": 6.0
+            }
+        },
+        {
+            "prefabName": "House",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "position": {
+                "x": 15.0,
+                "y": 0.0,
+                "z": 11.0
+            }
+        },
+        {
+            "prefabName": "House",
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": -4.371138828673793e-8
+            },
+            "position": {
+                "x": 15.0,
+                "y": 0.0,
+                "z": 12.0
+            }
+        },
+        {
+            "prefabName": "Tree",
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": -4.371138828673793e-8
+            },
+            "position": {
+                "x": 15.0,
+                "y": 0.0,
+                "z": 13.0
+            }
+        },
+        {
+            "prefabName": "BuildingTall",
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": -4.371138828673793e-8
+            },
+            "position": {
+                "x": 16.0,
+                "y": 0.0,
+                "z": 13.0
+            }
+        },
+        {
+            "prefabName": "Grass",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": 0.7071068286895752
+            },
+            "position": {
+                "x": 16.0,
+                "y": 0.0,
+                "z": 12.0
+            }
+        },
+        {
+            "prefabName": "Grass",
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": -4.371138828673793e-8
+            },
+            "position": {
+                "x": 16.0,
+                "y": 0.0,
+                "z": 11.0
+            }
+        },
+        {
+            "prefabName": "BuildingTall",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": 0.7071068286895752
+            },
+            "position": {
+                "x": 16.0,
+                "y": 0.0,
+                "z": 10.0
+            }
+        },
+        {
+            "prefabName": "Grass",
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": -4.371138828673793e-8
+            },
+            "position": {
+                "x": 16.0,
+                "y": 0.0,
+                "z": 9.0
+            }
+        },
+        {
+            "prefabName": "RoadTurn",
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": -4.371138828673793e-8
+            },
+            "position": {
+                "x": 16.0,
+                "y": 0.0,
+                "z": 8.0
+            }
+        },
+        {
+            "prefabName": "RoadT",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": 0.7071068286895752
+            },
+            "position": {
+                "x": 16.0,
+                "y": 0.0,
+                "z": 7.0
+            }
+        },
+        {
+            "prefabName": "RoadCrossway",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": 0.7071068286895752
+            },
+            "position": {
+                "x": 17.0,
+                "y": 0.0,
+                "z": 7.0
+            }
+        },
+        {
+            "prefabName": "RoadCrosswayTunel",
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": -4.371138828673793e-8
+            },
+            "position": {
+                "x": 17.0,
+                "y": 0.0,
+                "z": 8.0
+            }
+        },
+        {
+            "prefabName": "RoadT",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": 0.7071068286895752
+            },
+            "position": {
+                "x": 17.0,
+                "y": 0.0,
+                "z": 9.0
+            }
+        },
+        {
+            "prefabName": "RoadTurn",
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": -4.371138828673793e-8
+            },
+            "position": {
+                "x": 17.0,
+                "y": 0.0,
+                "z": 10.0
+            }
+        },
+        {
+            "prefabName": "RoadT",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": -0.7071068286895752
+            },
+            "position": {
+                "x": 17.0,
+                "y": 0.0,
+                "z": 6.0
+            }
+        },
+        {
+            "prefabName": "BuildingTall",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": 0.7071068286895752
+            },
+            "position": {
+                "x": 17.0,
+                "y": 0.0,
+                "z": 11.0
+            }
+        },
+        {
+            "prefabName": "RoadTurn",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": 0.7071068286895752
+            },
+            "position": {
+                "x": 17.0,
+                "y": 0.0,
+                "z": 12.0
+            }
+        },
+        {
+            "prefabName": "RoadT",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": 0.7071068286895752
+            },
+            "position": {
+                "x": 17.0,
+                "y": 0.0,
+                "z": 13.0
+            }
+        },
+        {
+            "prefabName": "RoadStright",
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": -4.371138828673793e-8
+            },
+            "position": {
+                "x": 17.0,
+                "y": 0.0,
+                "z": 14.0
+            }
+        },
+        {
+            "prefabName": "RoadCrosswayTunel",
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": -4.371138828673793e-8
+            },
+            "position": {
+                "x": 17.0,
+                "y": 0.0,
+                "z": 15.0
+            }
+        },
+        {
+            "prefabName": "RoadCrossway",
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": -4.371138828673793e-8
+            },
+            "position": {
+                "x": 17.0,
+                "y": 0.0,
+                "z": 16.0
+            }
+        },
+        {
+            "prefabName": "RoadCrossway",
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": -4.371138828673793e-8
+            },
+            "position": {
+                "x": 16.0,
+                "y": 0.0,
+                "z": 16.0
+            }
+        },
+        {
+            "prefabName": "RoadTurn",
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": -4.371138828673793e-8
+            },
+            "position": {
+                "x": 15.0,
+                "y": 0.0,
+                "z": 16.0
+            }
+        },
+        {
+            "prefabName": "Tree",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "position": {
+                "x": 15.0,
+                "y": 0.0,
+                "z": 17.0
+            }
+        },
+        {
+            "prefabName": "RoadStrightTunel",
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": -4.371138828673793e-8
+            },
+            "position": {
+                "x": 16.0,
+                "y": 0.0,
+                "z": 17.0
+            }
+        },
+        {
+            "prefabName": "RoadStright",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "position": {
+                "x": 17.0,
+                "y": 0.0,
+                "z": 17.0
+            }
+        },
+        {
+            "prefabName": "RoadCrossway",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": 0.7071068286895752
+            },
+            "position": {
+                "x": 17.0,
+                "y": 0.0,
+                "z": 18.0
+            }
+        },
+        {
+            "prefabName": "RoadCrossway",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": 0.7071068286895752
+            },
+            "position": {
+                "x": 16.0,
+                "y": 0.0,
+                "z": 18.0
+            }
+        },
+        {
+            "prefabName": "RoadStright",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": 0.7071068286895752
+            },
+            "position": {
+                "x": 15.0,
+                "y": 0.0,
+                "z": 18.0
+            }
+        },
+        {
+            "prefabName": "RoadT",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": -0.7071068286895752
+            },
+            "position": {
+                "x": 16.0,
+                "y": 0.0,
+                "z": 19.0
+            }
+        },
+        {
+            "prefabName": "RoadTurn",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": -0.7071068286895752
+            },
+            "position": {
+                "x": 17.0,
+                "y": 0.0,
+                "z": 19.0
+            }
+        },
+        {
+            "prefabName": "RoadStrightTunel",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": 0.7071068286895752
+            },
+            "position": {
+                "x": 18.0,
+                "y": 0.0,
+                "z": 7.0
+            }
+        },
+        {
+            "prefabName": "RoadT",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "position": {
+                "x": 18.0,
+                "y": 0.0,
+                "z": 9.0
+            }
+        },
+        {
+            "prefabName": "RoadCrosswayTunel",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": 0.7071068286895752
+            },
+            "position": {
+                "x": 18.0,
+                "y": 0.0,
+                "z": 10.0
+            }
+        },
+        {
+            "prefabName": "RoadStright",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": -0.7071068286895752
+            },
+            "position": {
+                "x": 18.0,
+                "y": 0.0,
+                "z": 12.0
+            }
+        },
+        {
+            "prefabName": "RoadStright",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": -0.7071068286895752
+            },
+            "position": {
+                "x": 18.0,
+                "y": 0.0,
+                "z": 13.0
+            }
+        },
+        {
+            "prefabName": "Grass",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": -0.7071068286895752
+            },
+            "position": {
+                "x": 18.0,
+                "y": 0.0,
+                "z": 11.0
+            }
+        },
+        {
+            "prefabName": "House",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": -0.7071068286895752
+            },
+            "position": {
+                "x": 18.0,
+                "y": 0.0,
+                "z": 14.0
+            }
+        },
+        {
+            "prefabName": "RoadStright",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": -0.7071068286895752
+            },
+            "position": {
+                "x": 18.0,
+                "y": 0.0,
+                "z": 15.0
+            }
+        },
+        {
+            "prefabName": "RoadStrightTunel",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": -0.7071068286895752
+            },
+            "position": {
+                "x": 18.0,
+                "y": 0.0,
+                "z": 16.0
+            }
+        },
+        {
+            "prefabName": "House",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": 0.7071068286895752
+            },
+            "position": {
+                "x": 18.0,
+                "y": 0.0,
+                "z": 17.0
+            }
+        },
+        {
+            "prefabName": "RoadStright",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": 0.7071068286895752
+            },
+            "position": {
+                "x": 18.0,
+                "y": 0.0,
+                "z": 18.0
+            }
+        },
+        {
+            "prefabName": "BuildingTall",
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": -4.371138828673793e-8
+            },
+            "position": {
+                "x": 18.0,
+                "y": 0.0,
+                "z": 19.0
+            }
+        },
+        {
+            "prefabName": "RoadCrossway",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": 0.7071068286895752
+            },
+            "position": {
+                "x": 19.0,
+                "y": 0.0,
+                "z": 9.0
+            }
+        },
+        {
+            "prefabName": "RoadTurn",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "position": {
+                "x": 19.0,
+                "y": 0.0,
+                "z": 12.0
+            }
+        },
+        {
+            "prefabName": "RoadCrossway",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "position": {
+                "x": 19.0,
+                "y": 0.0,
+                "z": 13.0
+            }
+        },
+        {
+            "prefabName": "RoadCrossway",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": -0.7071068286895752
+            },
+            "position": {
+                "x": 19.0,
+                "y": 0.0,
+                "z": 15.0
+            }
+        },
+        {
+            "prefabName": "RoadStrightTunel",
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": -4.371138828673793e-8
+            },
+            "position": {
+                "x": 19.0,
+                "y": 0.0,
+                "z": 14.0
+            }
+        },
+        {
+            "prefabName": "RoadCrossway",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "position": {
+                "x": 19.0,
+                "y": 0.0,
+                "z": 16.0
+            }
+        },
+        {
+            "prefabName": "RoadStright",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": 0.7071068286895752
+            },
+            "position": {
+                "x": 19.0,
+                "y": 0.0,
+                "z": 18.0
+            }
+        },
+        {
+            "prefabName": "BuildingTall",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": -0.7071068286895752
+            },
+            "position": {
+                "x": 19.0,
+                "y": 0.0,
+                "z": 17.0
+            }
+        },
+        {
+            "prefabName": "BuildingTall",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": 0.7071068286895752
+            },
+            "position": {
+                "x": 19.0,
+                "y": 0.0,
+                "z": 19.0
+            }
+        },
+        {
+            "prefabName": "RoadCrosswayTunel",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": 0.7071068286895752
+            },
+            "position": {
+                "x": 20.0,
+                "y": 0.0,
+                "z": 15.0
+            }
+        },
+        {
+            "prefabName": "RoadStrightTunel",
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": -4.371138828673793e-8
+            },
+            "position": {
+                "x": 20.0,
+                "y": 0.0,
+                "z": 14.0
+            }
+        },
+        {
+            "prefabName": "RoadTurn",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": 0.7071068286895752
+            },
+            "position": {
+                "x": 20.0,
+                "y": 0.0,
+                "z": 13.0
+            }
+        },
+        {
+            "prefabName": "BuildingTall",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": -0.7071068286895752
+            },
+            "position": {
+                "x": 20.0,
+                "y": 0.0,
+                "z": 12.0
+            }
+        },
+        {
+            "prefabName": "RoadStright",
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": -4.371138828673793e-8
+            },
+            "position": {
+                "x": 20.0,
+                "y": 0.0,
+                "z": 16.0
+            }
+        },
+        {
+            "prefabName": "RoadStrightTunel",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": -0.7071068286895752
+            },
+            "position": {
+                "x": 20.0,
+                "y": 0.0,
+                "z": 18.0
+            }
+        },
+        {
+            "prefabName": "Grass",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": 0.7071068286895752
+            },
+            "position": {
+                "x": 20.0,
+                "y": 0.0,
+                "z": 17.0
+            }
+        },
+        {
+            "prefabName": "RoadStrightTunel",
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": -4.371138828673793e-8
+            },
+            "position": {
+                "x": 14.0,
+                "y": 0.0,
+                "z": 12.0
+            }
+        },
+        {
+            "prefabName": "RoadStrightTunel",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": -0.7071068286895752
+            },
+            "position": {
+                "x": 15.0,
+                "y": 0.0,
+                "z": 19.0
+            }
+        },
+        {
+            "prefabName": "BuildingTall",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": 0.7071068286895752
+            },
+            "position": {
+                "x": 15.0,
+                "y": 0.0,
+                "z": 20.0
+            }
+        },
+        {
+            "prefabName": "RoadStright",
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": -4.371138828673793e-8
+            },
+            "position": {
+                "x": 16.0,
+                "y": 0.0,
+                "z": 1.0
+            }
+        },
+        {
+            "prefabName": "Grass",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": -0.7071068286895752
+            },
+            "position": {
+                "x": 16.0,
+                "y": 0.0,
+                "z": 20.0
+            }
+        },
+        {
+            "prefabName": "BuildingTall",
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": -4.371138828673793e-8
+            },
+            "position": {
+                "x": 17.0,
+                "y": 0.0,
+                "z": 20.0
+            }
+        },
+        {
+            "prefabName": "House",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": -0.7071068286895752
+            },
+            "position": {
+                "x": 18.0,
+                "y": 0.0,
+                "z": 20.0
+            }
+        },
+        {
+            "prefabName": "RoadStrightTunel",
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": -4.371138828673793e-8
+            },
+            "position": {
+                "x": 17.0,
+                "y": 0.0,
+                "z": 3.0
+            }
+        },
+        {
+            "prefabName": "BuildingTall",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": 0.7071068286895752
+            },
+            "position": {
+                "x": 17.0,
+                "y": 0.0,
+                "z": 4.0
+            }
+        },
+        {
+            "prefabName": "RoadStright",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": -0.7071068286895752
+            },
+            "position": {
+                "x": 17.0,
+                "y": 0.0,
+                "z": 5.0
+            }
+        },
+        {
+            "prefabName": "RoadT",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "position": {
+                "x": 18.0,
+                "y": 0.0,
+                "z": 5.0
+            }
+        },
+        {
+            "prefabName": "Tree",
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": -4.371138828673793e-8
+            },
+            "position": {
+                "x": 18.0,
+                "y": 0.0,
+                "z": 4.0
+            }
+        },
+        {
+            "prefabName": "RoadT",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": -0.7071068286895752
+            },
+            "position": {
+                "x": 18.0,
+                "y": 0.0,
+                "z": 6.0
+            }
+        },
+        {
+            "prefabName": "RoadCrosswayTunel",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": -0.7071068286895752
+            },
+            "position": {
+                "x": 19.0,
+                "y": 0.0,
+                "z": 5.0
+            }
+        },
+        {
+            "prefabName": "RoadT",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": 0.7071068286895752
+            },
+            "position": {
+                "x": 19.0,
+                "y": 0.0,
+                "z": 4.0
+            }
+        },
+        {
+            "prefabName": "RoadStrightTunel",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "position": {
+                "x": 19.0,
+                "y": 0.0,
+                "z": 3.0
+            }
+        },
+        {
+            "prefabName": "House",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "position": {
+                "x": 18.0,
+                "y": 0.0,
+                "z": 3.0
+            }
+        },
+        {
+            "prefabName": "RoadT",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "position": {
+                "x": 19.0,
+                "y": 0.0,
+                "z": 2.0
+            }
+        },
+        {
+            "prefabName": "RoadT",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": -0.7071068286895752
+            },
+            "position": {
+                "x": 19.0,
+                "y": 0.0,
+                "z": 6.0
+            }
+        },
+        {
+            "prefabName": "RoadCrossway",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "position": {
+                "x": 19.0,
+                "y": 0.0,
+                "z": 7.0
+            }
+        },
+        {
+            "prefabName": "RoadCrossway",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": 0.7071068286895752
+            },
+            "position": {
+                "x": 19.0,
+                "y": 0.0,
+                "z": 8.0
+            }
+        },
+        {
+            "prefabName": "RoadStright",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": -0.7071068286895752
+            },
+            "position": {
+                "x": 18.0,
+                "y": 0.0,
+                "z": 8.0
+            }
+        },
+        {
+            "prefabName": "RoadT",
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": -4.371138828673793e-8
+            },
+            "position": {
+                "x": 20.0,
+                "y": 0.0,
+                "z": 4.0
+            }
+        },
+        {
+            "prefabName": "RoadT",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": 0.7071068286895752
+            },
+            "position": {
+                "x": 20.0,
+                "y": 0.0,
+                "z": 3.0
+            }
+        },
+        {
+            "prefabName": "RoadTurn",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "position": {
+                "x": 20.0,
+                "y": 0.0,
+                "z": 5.0
+            }
+        },
+        {
+            "prefabName": "RoadStright",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "position": {
+                "x": 20.0,
+                "y": 0.0,
+                "z": 6.0
+            }
+        },
+        {
+            "prefabName": "RoadCrossway",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": -0.7071068286895752
+            },
+            "position": {
+                "x": 20.0,
+                "y": 0.0,
+                "z": 7.0
+            }
+        },
+        {
+            "prefabName": "RoadCrossway",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "position": {
+                "x": 20.0,
+                "y": 0.0,
+                "z": 8.0
+            }
+        },
+        {
+            "prefabName": "RoadT",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "position": {
+                "x": 20.0,
+                "y": 0.0,
+                "z": 2.0
+            }
+        },
+        {
+            "prefabName": "RoadT",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": -0.7071068286895752
+            },
+            "position": {
+                "x": 20.0,
+                "y": 0.0,
+                "z": 9.0
+            }
+        },
+        {
+            "prefabName": "RoadCrossway",
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": -4.371138828673793e-8
+            },
+            "position": {
+                "x": 20.0,
+                "y": 0.0,
+                "z": 10.0
+            }
+        },
+        {
+            "prefabName": "RoadT",
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": -4.371138828673793e-8
+            },
+            "position": {
+                "x": 20.0,
+                "y": 0.0,
+                "z": 11.0
+            }
+        },
+        {
+            "prefabName": "RoadCrossway",
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": -4.371138828673793e-8
+            },
+            "position": {
+                "x": 19.0,
+                "y": 0.0,
+                "z": 10.0
+            }
+        },
+        {
+            "prefabName": "RoadTurn",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": -0.7071068286895752
+            },
+            "position": {
+                "x": 19.0,
+                "y": 0.0,
+                "z": 11.0
+            }
+        },
+        {
+            "prefabName": "BuildingTall",
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": -4.371138828673793e-8
+            },
+            "position": {
+                "x": 18.0,
+                "y": 0.0,
+                "z": 2.0
+            }
+        },
+        {
+            "prefabName": "Tree",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": 0.7071068286895752
+            },
+            "position": {
+                "x": 17.0,
+                "y": 0.0,
+                "z": 2.0
+            }
+        },
+        {
+            "prefabName": "Grass",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": -0.7071068286895752
+            },
+            "position": {
+                "x": 17.0,
+                "y": 0.0,
+                "z": 1.0
+            }
+        },
+        {
+            "prefabName": "House",
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": -4.371138828673793e-8
+            },
+            "position": {
+                "x": 18.0,
+                "y": 0.0,
+                "z": 1.0
+            }
+        },
+        {
+            "prefabName": "Tree",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": -0.7071068286895752
+            },
+            "position": {
+                "x": 17.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "prefabName": "Grass",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "position": {
+                "x": 16.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "prefabName": "RoadTurn",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": 0.7071068286895752
+            },
+            "position": {
+                "x": 18.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "prefabName": "RoadCrossway",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": -0.7071068286895752
+            },
+            "position": {
+                "x": 19.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "prefabName": "RoadT",
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": -4.371138828673793e-8
+            },
+            "position": {
+                "x": 19.0,
+                "y": 0.0,
+                "z": 1.0
+            }
+        },
+        {
+            "prefabName": "RoadT",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "position": {
+                "x": 20.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "prefabName": "RoadT",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "position": {
+                "x": 20.0,
+                "y": 0.0,
+                "z": 1.0
+            }
+        },
+        {
+            "prefabName": "RoadStright",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "position": {
+                "x": 19.0,
+                "y": 0.0,
+                "z": 20.0
+            }
+        },
+        {
+            "prefabName": "Tree",
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "position": {
+                "x": 20.0,
+                "y": 0.0,
+                "z": 19.0
+            }
+        },
+        {
+            "prefabName": "House",
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": -4.371138828673793e-8
+            },
+            "position": {
+                "x": 20.0,
+                "y": 0.0,
+                "z": 20.0
+            }
+        }
+    ]
+}
